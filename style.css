@@ -1,0 +1,26 @@
+
+* {
+    box-sizing: border-box;
+}
+
+.fullcontent { 
+    background: #19dbdb;
+    line-height: 1.5;
+    letter-spacing: 0.01em;
+    color: black;
+
+}
+
+
+.navbar {
+    box-sizing: border-box;
+    display: flex;   
+    width: 100%;
+    padding: 5px;
+    margin: 0px;
+}
+
+.container{
+    background-color: #0bb1b1;
+ 
+}
